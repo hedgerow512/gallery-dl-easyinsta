@@ -5,6 +5,10 @@ Hello
 ---
 I made a simple UI in Python to download content from Instagram profiles in their entirety, assuming you have gallery-dl and python3 properly installed.
 
+NOTE for Windows Users
+---
+If you run this program on Windows, you should replace `os.system('clear')` with `os.system('cls')` in the source code. Mac and Linux users need not to change anything.
+
 Usage & Mechanics
 ---
 Download **eid.py** and run it in a terminal with `python3 /path/to/location/eid.py`
@@ -18,7 +22,3 @@ The program will automatically import cookies from Firefox (though, you can chan
 Selling Point
 ---
 My programming skills aren't that great, but it's good enough to get the job done easily. After using gallery-dl for a few days for multiple jobs, scrolling back and forth in the terminal to edit the commands for a specific user, manually needing to organize the downloaded content myself, I find the method I created to be much easier and faster to work with.
-
-NOTE for Windows Users
----
-If you run this program on Windows, you should replace `os.system('clear')` with `os.system('cls')` in the source code. Mac and Linux users need not to change anything.
