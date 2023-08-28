@@ -7,6 +7,8 @@ I made a simple UI in Python to download content from Instagram profiles in thei
 
 Usage & Mechanics
 ---
+Download **eid.py** and run it in a terminal with `python3 /path/to/location/eid.py`
+
 The program will only ask you two questions: The Instagram user which to download from and what to download (posts, reels, tagged media, stories, highlights). After that, it will create a directory in the folder it's running from and will automatically download to it, organizing posts, reels, etc into their own subfolders.
 
 So, for example, you want to download only posts, reels, and stories from Mark Zuckerberg's profile @zuck. You will input `zuck` when prompted for the user, and input `posts,reels,stories` when prompted for media selection. The program will create a new folder at `./zuck`, with the associated downloaded files being stored in `./zuck/posts/`, `./zuck/reels/`, and `./zuck/stories/`. I'd suggest running this in a directory dedicated to your Instagram saves every time you run this program for ease of file management, such as in `~/Desktop/InstagramSaves/`.
