@@ -3,7 +3,7 @@ A simple UI python script to easily download Instagram content with gallery-dl
 
 Hello
 ---
-I made a simple UI in Python to download content from Instagram profiles in their entirety, assuming you have gallery-dl properly installed.
+I made a simple UI in Python to download content from Instagram profiles in their entirety, assuming you have gallery-dl and python3 properly installed.
 
 Usage & Mechanics
 ---
