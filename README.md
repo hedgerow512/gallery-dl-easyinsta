@@ -21,4 +21,4 @@ The program will automatically import cookies from Firefox (though, you can chan
 
 Selling Point
 ---
-My programming skills aren't that great, but it's good enough to get the job done easily. After using gallery-dl for a few days for multiple jobs, scrolling back and forth in the terminal to edit the commands for a specific user, manually needing to organize the downloaded content myself, I find the method I created to be much easier and faster to work with.
+My programming skills aren't that great, but it's good enough to get the job done easily. After using gallery-dl for a few days for multiple jobs, scrolling back and forth in the terminal to edit the commands for a specific user, manually needing to organize the downloaded content myself, I find the method I created to be much easier and faster to work with when downloading from Instagram.
